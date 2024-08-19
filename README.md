@@ -42,6 +42,6 @@ PIM-1 kinase is a serine/threonine kinase that is implicated in the regulation o
 To run the code in this repository, open the Jupyter notebook and run the cells in the exact order, one by one.
 
 ## To Do
--[x] Perform molecular docking studies to evaluate the binding affinities of the identified inhibitors.
--[x] Optimize the QSAR model based on feedback and additional data.
--[x] Document the molecular docking methodology and publish the results in a peer-reviewed journal
+- [ ] Perform molecular docking studies to evaluate the binding affinities of the identified inhibitors.
+- [ ] Optimize the QSAR model based on feedback and additional data.
+- [ ] Document the molecular docking methodology and publish the results in a peer-reviewed journal
