@@ -9,11 +9,8 @@ This repository contains a comprehensive study focused on the design of inhibito
 - [Background](#background)
 - [Objectives](#objectives)
 - [Methodology](#methodology)
-- [Installation](#installation)
 - [Usage](#usage)
 - [To-Do](#to-do)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Background
 
@@ -40,6 +37,11 @@ PIM-1 kinase is a serine/threonine kinase that is implicated in the regulation o
 4. **Model Interpretation**: 
    - Analyzed feature importance to understand key molecular features influencing activity.
 
-## Installation
+## Usage
 
-To run the code in this repository, open the jupyter notebook notebook and run the cells in the exact order, one by one.
+To run the code in this repository, open the Jupyter notebook and run the cells in the exact order, one by one.
+
+## To Do
+-[x] Perform molecular docking studies to evaluate the binding affinities of the identified inhibitors.
+-[x] Optimize the QSAR model based on feedback and additional data.
+-[x] Document the molecular docking methodology and publish the results in a peer-reviewed journal
